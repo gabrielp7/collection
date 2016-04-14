@@ -16,7 +16,7 @@ public class App {
 	private static final Person LUISA_ANGOLA = new Person("Luisa", "Angola");
 	private static final Person GABRIEL_PENA = new Person("GAbriel", "Pena");
 	private static final Person RAQUEL_LOPEZ = new Person("Raquel", "Lopez");
-	private static final String SEPARATOR = "*************";
+	private static final String SEPARATOR = "############";
 
 	public static void main(String[] args) {
 		

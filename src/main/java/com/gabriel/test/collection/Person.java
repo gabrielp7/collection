@@ -47,7 +47,7 @@ public class Person implements Comparable<Person> {
 
 	@Override
 	public String toString() {
-		return "Person [bithDate=" + bithDate + ", name=" + name + ", surname=" + surname + "]";
+		return "Person [bithDate='" + bithDate + "', name='" + name + "', surname='" + surname + "']";
 	}
 
 	public int compareTo(Person o) {
