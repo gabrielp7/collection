@@ -13,7 +13,7 @@ import java.util.TreeSet;
  *
  */
 public class App {
-	private static final Person LUISA_ANGOLA = new Person("Luisa Maria", "Angola");
+	private static final Person LUISA_ANGOLA = new Person("Luisa Maria Juaquina", "Angola");
 	private static final Person GABRIEL_PENA = new Person("GAbriel", "Pena");
 	private static final Person RAQUEL_LOPEZ = new Person("Raquel", "Lopez");
 	private static final String SEPARATOR = "############";
